@@ -1,0 +1,3 @@
+C:/Users/iamoz/prog/raytracer/SidRaytracer/out/build/x64-release/CMakeFiles/ALL_BUILD.dir
+C:/Users/iamoz/prog/raytracer/SidRaytracer/out/build/x64-release/CMakeFiles/ZERO_CHECK.dir
+C:/Users/iamoz/prog/raytracer/SidRaytracer/out/build/x64-release/SidRaytracer/CMakeFiles/SidRaytracer.dir

@@ -1,0 +1,10 @@
+^C:\USERS\IAMOZ\PROG\RAYTRACER\SIDRAYTRACER\OUT\BUILD\X64-RELEASE\CMAKEFILES\A94143D544B18612440C8519BD240BCE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/iamoz/prog/raytracer/SidRaytracer -BC:/Users/iamoz/prog/raytracer/SidRaytracer/out/build/x64-release --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/iamoz/prog/raytracer/SidRaytracer/out/build/x64-release/SidRaytracer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
